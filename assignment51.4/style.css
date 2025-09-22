@@ -5,7 +5,7 @@
 .w-full { width: 100%; }
 .h-full { height: 100%; }
 .w-1-2 { width: 50%; }
-.pt-1 { padding-top: 1%; }
+.pb-1 { padding-bottom: 1%; }
 .p-10 { padding: 40px; }
 .m-1 { margin: 4px; }
 .mt-4 { margin-top: 16px; }
