@@ -1,0 +1,21 @@
+.bg-green { background-color: green; }
+
+.border-black { border: 10px solid black; }
+
+.border-dotted { border: 4px dotted black; }
+
+.text-center { text-align: center; }
+
+.text-bold { font-weight: bold; }
+
+.text-xl { font-size: 24px; }
+
+.p-10 { padding: 10px; }
+
+.m-20 { margin: 20px; }
+
+.inline-block { display: inline-block; }
+
+.mx-auto { margin-left: auto; margin-right: auto; }
+
+.h-screen { height: 60vh;}
