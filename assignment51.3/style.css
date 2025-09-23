@@ -5,8 +5,8 @@
 .flex-col { flex-direction: column; }
 .shadow { box-shadow: 0 2px 6px rgba(0,0,0,0.2); }
 .text-center { text-align: center; }
-.text-lg { font-size: 19.2px; }
-.text-sm { font-size: 14.4px; }
+.text-lg { font-size: 26px; }
+.text-sm { font-size: 14px; }
 .font-bold { font-weight: bold; }
 .bg-gray { background: #888; }
 .text-white { color: white; }
@@ -23,5 +23,5 @@
 .h-40 { height: 160px; object-fit: cover; }
 
 @media (max-width: 768px) {
-  .card { flex: 1 1 100%; }
+  .flex-card { flex: 1 1 100%; }
 }
